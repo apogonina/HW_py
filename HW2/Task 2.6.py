@@ -18,3 +18,4 @@ while True:
         print(f"{key[:25]:>30}: {value}")
     print('*' * 30)
 
+
